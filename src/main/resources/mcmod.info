@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arch",
+  "name": "Architectonics",
+  "description": "[WIP]",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wintersky20"],
+  "credits": "FML_Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
